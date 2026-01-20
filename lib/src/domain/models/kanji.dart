@@ -31,7 +31,7 @@ class Kanji {
     if (value.isEmpty) return value;
     // Split by comma and trim whitespace, then join with newlines
     final parts = value
-        .split(',')
+        .split('、')
         .map((part) => part.trim())
         .where((part) => part.isNotEmpty);
     return parts.join('\n');
