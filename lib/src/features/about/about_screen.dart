@@ -121,7 +121,7 @@ class _ResourceSection extends StatelessWidget {
           _InfoRow(
             icon: Icons.book,
             label: 'Textbook',
-            value: '日本語総まとめ N3 漢字',
+            value: '日本語総まとめ N5 漢字',
           ),
           SizedBox(height: AppSizes.md),
           _InfoRow(

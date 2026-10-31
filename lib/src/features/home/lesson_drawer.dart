@@ -76,7 +76,7 @@ class _LessonDrawerState extends State<LessonDrawer> {
                       ),
                       const SizedBox(height: AppSizes.lg),
                       Text(
-                        'N3 漢字',
+                        'N5 漢字',
                         textAlign: TextAlign.center,
                         style: Theme.of(context)
                             .textTheme
